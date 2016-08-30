@@ -1,0 +1,8 @@
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\bin\Debug\Graficador infix and postfix.exe
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\bin\Debug\Graficador infix and postfix.pdb
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\obj\x86\Debug\Graficador infix and postfix.csproj.GenerateResource.Cache
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\obj\x86\Debug\Graficador infix and postfix.exe
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\obj\x86\Debug\Graficador infix and postfix.pdb
+D:\Compu\2013 C5E\Semestre 2\2-2\Graficador C#\Graficador infix and postfix\Graficador infix and postfix\obj\x86\Debug\Graficador infix and postfix.csprojResolveAssemblyReference.cache

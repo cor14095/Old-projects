@@ -1,0 +1,164 @@
+object Form1: TForm1
+  Left = 342
+  Top = 110
+  Caption = 'Alejandro J. Cort'#233's - Infix & Posfix'
+  ClientHeight = 531
+  ClientWidth = 716
+  Color = clMenu
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesigned
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 8
+    Top = 8
+    Width = 700
+    Height = 518
+    TabOrder = 0
+    object Image1: TImage
+      Left = 104
+      Top = 0
+      Width = 490
+      Height = 490
+      Cursor = crCross
+      OnMouseMove = Image1MouseMove
+    end
+    object LabeledEdit2: TLabeledEdit
+      Left = 8
+      Top = 62
+      Width = 81
+      Height = 21
+      EditLabel.Width = 41
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Lim supx'
+      TabOrder = 0
+      Text = '10'
+    end
+    object LabeledEdit3: TLabeledEdit
+      Left = 8
+      Top = 97
+      Width = 81
+      Height = 21
+      EditLabel.Width = 36
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Lim infx'
+      TabOrder = 1
+      Text = '-10'
+    end
+    object LabeledEdit4: TLabeledEdit
+      Left = 8
+      Top = 148
+      Width = 81
+      Height = 21
+      EditLabel.Width = 41
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Lim supy'
+      TabOrder = 2
+      Text = '10'
+    end
+    object Button2: TButton
+      Left = 8
+      Top = 307
+      Width = 81
+      Height = 34
+      Caption = 'Evaluar'
+      TabOrder = 3
+      OnClick = Button2Click
+    end
+    object LabeledEdit5: TLabeledEdit
+      Left = 8
+      Top = 187
+      Width = 81
+      Height = 21
+      EditLabel.Width = 36
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Lim infy'
+      TabOrder = 4
+      Text = '-10'
+    end
+    object Button3: TButton
+      Left = 8
+      Top = 416
+      Width = 81
+      Height = 33
+      Caption = 'Graficar'
+      TabOrder = 5
+      OnClick = Button3Click
+    end
+    object LabeledEdit1: TLabeledEdit
+      Left = 8
+      Top = 18
+      Width = 81
+      Height = 21
+      EditLabel.Width = 20
+      EditLabel.Height = 13
+      EditLabel.Caption = 'F(x)'
+      TabOrder = 6
+      Text = 'x^2 + x + 10'
+    end
+    object LabeledEdit6: TLabeledEdit
+      Left = 8
+      Top = 280
+      Width = 81
+      Height = 21
+      EditLabel.Width = 36
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Evaluar'
+      TabOrder = 7
+      Text = '0'
+    end
+    object LabeledEdit7: TLabeledEdit
+      Left = 8
+      Top = 365
+      Width = 81
+      Height = 21
+      EditLabel.Width = 48
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Resultado'
+      ReadOnly = True
+      TabOrder = 8
+    end
+    object LabeledEdit8: TLabeledEdit
+      Left = 600
+      Top = 18
+      Width = 89
+      Height = 21
+      EditLabel.Width = 72
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Posici'#243'n mouse'
+      ReadOnly = True
+      TabOrder = 9
+    end
+    object ProgressBar1: TProgressBar
+      Left = 104
+      Top = 496
+      Width = 490
+      Height = 17
+      TabOrder = 10
+    end
+    object LabeledEdit9: TLabeledEdit
+      Left = 600
+      Top = 62
+      Width = 89
+      Height = 21
+      EditLabel.Width = 28
+      EditLabel.Height = 13
+      EditLabel.Caption = 'Punto'
+      ReadOnly = True
+      TabOrder = 11
+    end
+  end
+  object CheckBox1: TCheckBox
+    Left = 16
+    Top = 472
+    Width = 90
+    Height = 17
+    Caption = 'Lims usuario'
+    TabOrder = 1
+  end
+end

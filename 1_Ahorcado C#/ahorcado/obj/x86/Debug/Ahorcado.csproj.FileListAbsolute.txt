@@ -1,0 +1,8 @@
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.csproj.GenerateResource.Cache
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.exe
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.pdb
+D:\Compu\2013 C5E\Semestre 2\2-1\ahorcado\Ahorcado\Ahorcado\obj\x86\Debug\Ahorcado.csprojResolveAssemblyReference.cache
